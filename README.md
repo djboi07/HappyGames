@@ -165,4 +165,4 @@ python mysqlData.py
 - Track your rank on the leaderboard.
 
 ## Screenshots
-
+<img src="screenshots/HomePage.png" alt="Home Page" width="750"/>
