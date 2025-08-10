@@ -768,7 +768,6 @@ while True:
                 label_dice.configure(text='COMPUTER IS ROLLING\n\n\n\n\n\n\n\n\n\n\n\n\n')
                 a=r.randint(1,6)   
                 b=r.randint(1,6)
-                a=b=3
                 die_roll(a,b)
         def comp_move_path(x):
             global label_comp_piece,c
@@ -807,7 +806,6 @@ while True:
             button_roll.configure(state='disabled')
             a=r.randint(1,6)   
             b=r.randint(1,6)
-            a=b=3
             die_roll(a,b)
 
         screen=tk.Tk()
@@ -3031,4 +3029,5 @@ while True:
         except:
             print(current_login)
     elif game=='m': 
+
         break
