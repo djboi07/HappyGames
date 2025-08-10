@@ -165,4 +165,63 @@ python mysqlData.py
 - Track your rank on the leaderboard.
 
 ## Screenshots
+**Home Page**
+
 <img src="screenshots/HomePage.png" alt="Home Page" width="750"/>
+
+**User Status**
+
+<img src="screenshots/SignIn.png" alt="Sign In" width="750"/>
+<img src="screenshots/LogIn.png" alt="Log In" width="750"/>
+<img src="screenshots/LogOut.png" alt="Log Out" width="750"/>
+
+**Leaderboard**
+
+<img src="screenshots/LeaderBoard.png" alt="LeaderBoard" width="750"/>
+
+**Tic Tac Toe**
+
+<img src="screenshots/Tictactoe.png" alt="Tic tac toe" width="750"/>
+
+**Rock Paper Scissors**
+
+<img src="screenshots/RockPaperScissors.png" alt="Rock Paper Scissors" width="750"/>
+
+**Snakes and Ladders**
+
+<img src="screenshots/SnakesAndLadders 1.png" alt="Snakes And Ladders 1" width="750"/>
+<img src="screenshots/SnakesAndLadders 2.png" alt="Snakes And Ladders 2" width="750"/>
+
+**Handcricket**
+
+<img src="screenshots/Handcricket 1.png" alt="Handcricket 1" width="750"/>
+<img src="screenshots/Handcricket 2.png" alt="Handcricket 2" width="750"/>
+
+**Quadratic Equation**
+
+<img src="screenshots/QuadraticEquation 1.png" alt="Quadratic Equation 1" width="750"/>
+<img src="screenshots/QuadraticEquation 2.png" alt="Quadratic Equation 2" width="750"/>
+
+**Crazy 8**
+
+<img src="screenshots/Cards 1.png" alt="Cards 1" width="750"/>
+<img src="screenshots/Cards 2.png" alt="Cards 2" width="750"/>
+
+**Memory Game**
+
+<img src="screenshots/MemoryGame 1.png" alt="Memory Game 1" width="750"/>
+<img src="screenshots/MemoryGame 2.png" alt="Memory Game 2" width="750"/>
+
+**Hangman**
+
+<img src="screenshots/Hangman 1.png" alt="Hangman 1" width="750"/>
+<img src="screenshots/Hangman 2.png" alt="Hangman 2" width="750"/>
+
+**Math Game**
+
+<img src="screenshots/MathGame.png" alt="Math Game" width="750"/>
+
+**Guessing Game**
+
+<img src="screenshots/Guessing 1" alt="Guessing Game 1" width="750"/>
+<img src="screenshots/Guessing 2" alt="Guessing Game 2" width="750"/>
