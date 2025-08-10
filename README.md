@@ -223,5 +223,5 @@ python mysqlData.py
 
 **Guessing Game**
 
-<img src="screenshots/Guessing 1" alt="Guessing Game 1" width="750"/>
-<img src="screenshots/Guessing 2" alt="Guessing Game 2" width="750"/>
+<img src="screenshots/Guessing 1.png" alt="Guessing Game 1" width="750"/>
+<img src="screenshots/Guessing 2.png" alt="Guessing Game 2" width="750"/>
